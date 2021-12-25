@@ -1,5 +1,0 @@
-/home/gusd1784/learning/test_code/slambook/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/gusd1784/learning/test_code/slambook/ch2/build/CMakeFiles/edit_cache.dir
-/home/gusd1784/learning/test_code/slambook/ch2/build/CMakeFiles/slam-demo.dir
-/home/gusd1784/learning/test_code/slambook/ch2/build/CMakeFiles/hello.dir
-/home/gusd1784/learning/test_code/slambook/ch2/build/CMakeFiles/hello_shared.dir

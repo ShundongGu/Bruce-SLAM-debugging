@@ -1,0 +1,1 @@
+cmd_drivers/rf433/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/rf433/built-in.o drivers/rf433/cmt2300a.o 
