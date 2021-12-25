@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../install/slam/lib/libhello.a  CMakeFiles/hello.dir/libHelloSLAM.cpp.o
+/usr/bin/ranlib ../install/slam/lib/libhello.a

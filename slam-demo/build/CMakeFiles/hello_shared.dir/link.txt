@@ -1,0 +1,1 @@
+/opt/aarch32-rockchip-linux-toolchain/bin/arm-buildroot-linux-gnueabihf-g++ -fPIC  -Wall -lstdc++ -pedantic -std=c++14 -lsupc++ -march=armv8-a -g  -shared -Wl,-soname,libhello_shared.so -o ../install/slam/lib/libhello_shared.so CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o  -L/install/slam/lib 

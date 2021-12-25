@@ -1,0 +1,1 @@
+/opt/aarch32-rockchip-linux-toolchain/bin/arm-buildroot-linux-gnueabihf-g++   -Wall -lstdc++ -pedantic -std=c++14 -lsupc++ -march=armv8-a -g  -rdynamic CMakeFiles/helloSLAM.dir/helloSLAM.cpp.o  -o ../install/slam/bin/helloSLAM  -L/install/slam/lib 
